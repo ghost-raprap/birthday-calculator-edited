@@ -6,10 +6,10 @@
 <style>
 .calculate {
 	width: 15%;
-	background-color: #333;
+	background-color: #3333ff;
 	color: white;
-	font-size: 18pt;
-	border-radius: 15px;
+	font-size: 14pt;
+	
 }
 form option {
 	background-color: #333;
