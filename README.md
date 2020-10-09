@@ -2,7 +2,8 @@
 birthdate-calculator
 
 #How?
-If you wonder how to calculate birthdate using just copy this php file and put to index.php 
+
+If you wonder how to calculate birthdate using php just copy this code file and put to index.php 
 
 #Note
 
